@@ -1,10 +1,10 @@
-<<<<<<< Updated upstream
+
 # Genetic Algorithms
 
+
+patch 2 
+
 patch 1
-=======
-# Hacktoberfest
 
+patch 3
 
-patch 2
->>>>>>> Stashed changes
