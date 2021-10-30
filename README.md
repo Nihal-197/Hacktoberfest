@@ -1,10 +1,6 @@
 
 # Genetic Algorithms
 
+patch 4
 
-patch 2 
-
-patch 1
-
-patch 3
 
